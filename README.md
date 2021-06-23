@@ -14,3 +14,6 @@ Outside of [GitHub](https://github.com/mindsgn/), You can **find me. Currently I
 
 [![GitHub mindsgn](https://img.shields.io/github/followers/mindsgn?label=follow&style=social)](https://github.com/mindsgn)
 <p><a href="https://senitembe.me./">🌐 Check out my website</a></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindsgn&layout=compact)](https://github.com/mindsgn/github-readme-stats)
